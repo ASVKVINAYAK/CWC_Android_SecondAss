@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/main"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:gravity="center"
+      android:orientation="vertical"
+      android:background="#FF515151">
+
+    <TextView
+          android:id="@+id/text"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Jyotiraditya Kuanar"
+          android:textSize="24sp"
+          android:translationY="-120dp"
+          android:textColor="#FFFFFFFF"/>
+
+    <TextView
+          android:id="@+id/textview1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:text="Number 1"
+          android:translationY="-70dp"
+          android:translationX="-90dp"
+          android:scaleX="2"
+          android:scaleY="1.2"
+          android:textColor="#FFFFFFFF"/>
+
+    <TextView
+          android:id="@+id/textview2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:translationX="-90dp"
+          android:translationY="-30dp"
+          android:text="Number 2"
+          android:scaleX="2"
+          android:scaleY="1.2"
+          android:textColor="#FFFFFFFF"/>
+
+    <EditText
+          android:id="@+id/edittext1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:translationX="90dp"
+          android:translationY="-147dp"
+          android:scaleX="2"
+          android:background="#FF2C2B2B"
+          android:textColor="#FFFFFFFF"/>
+
+    <EditText
+          android:id="@+id/edittext2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:translationX="90dp"
+          android:translationY="-112dp"
+          android:scaleX="2"
+          android:scaleY="1"
+          android:background="#FF2C2B2B"
+          android:textColor="#FFFFFFFF"/>
+
+    <Button
+          android:id="@+id/button4"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:translationX="-140dp"
+          android:text="Add"
+          android:background="#FFBF80FF"
+          android:textColor="#FF515151"
+          android:translationY="30dp"/>
+
+    <Button
+          android:id="@+id/button3"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:translationX="-47dp"
+          android:translationY="-20dp"
+          android:text="Subtract"
+          android:background="#FFBF80FF"
+          android:textColor="#FF515151"/>
+
+    <Button
+          android:id="@+id/button2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:translationX="47dp"
+          android:translationY="-70dp"
+          android:text="Multiply"
+          android:background="#FFBF80FF"
+          android:textColor="#FF515151"/>
+
+    <Button
+          android:id="@+id/button1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:translationX="140dp"
+          android:translationY="-120dp"
+          android:text="Divide"
+          android:background="#FFBF80FF"
+          android:textColor="#FF515151"/>
+
+    <EditText
+          android:id="@+id/edittext3"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:padding="8dp"
+          android:scaleX="2"
+          android:scaleY="1"
+          android:background="#FF2C2B2B"
+          android:textColor="#FFFFFFFF"/>
+
+</LinearLayout>
