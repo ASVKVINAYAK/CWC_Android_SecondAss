@@ -81,7 +81,7 @@
           android:layout_height="wrap_content"
           android:padding="8dp"
           android:translationX="-47dp"
-          android:translationY="-20dp"
+          android:translationY="-18.5dp"
           android:text="Subtract"
           android:background="#FFBF80FF"
           android:textColor="#FF515151"/>
@@ -92,7 +92,7 @@
           android:layout_height="wrap_content"
           android:padding="8dp"
           android:translationX="47dp"
-          android:translationY="-70dp"
+          android:translationY="-67dp"
           android:text="Multiply"
           android:background="#FFBF80FF"
           android:textColor="#FF515151"/>
@@ -103,7 +103,7 @@
           android:layout_height="wrap_content"
           android:padding="8dp"
           android:translationX="140dp"
-          android:translationY="-120dp"
+          android:translationY="-115.5dp"
           android:text="Divide"
           android:background="#FFBF80FF"
           android:textColor="#FF515151"/>
