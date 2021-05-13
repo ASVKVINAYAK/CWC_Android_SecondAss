@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-#### Date of submission => by May 14 2021, 3:00 PM IST
+#### Date of submission => by May 15 2021, 11:59 PM IST
 
 ### If you follow all the instructions stepwise the output will look like this.
 ![output](https://github.com/RiturajGupta21/CWC_Android_SecondAss/blob/main/Screenshot_20210507-194927.jpg)
